@@ -1,0 +1,23 @@
+# Data files
+*.csv
+*.xlsx
+*.zip
+*.pkl
+
+# Models
+*.pkl
+*.joblib
+*.h5
+models/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
