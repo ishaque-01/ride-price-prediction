@@ -40,7 +40,7 @@ The cleaned dataset used for training is approximately **200MB**. Due to GitHub'
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/ride-price-prediction.git](https://github.com/YourUsername/ride-price-prediction.git)
+   git clone [https://github.com/ishaque-01/ride-price-prediction.git](https://github.com/ishaque-01/ride-price-prediction.git)
    cd ride-price-prediction
 
 2. **Install Dependencies:**
